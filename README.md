@@ -23,3 +23,6 @@ Check if your host is docker
 2. cd dockerChecker
 3. chmod +x docker_checker.sh
 4. ./docker_checker.sh
+
+# 参考链接
+[stackoverflow](https://stackoverflow.com/questions/20010199/how-to-determine-if-a-process-runs-inside-lxc-docker)
